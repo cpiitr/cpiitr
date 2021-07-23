@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @cpiitr
+- 👀 I’m interested in competative programing
+- 🌱 I’m currently learning cp
+- 💞️ I’m looking to collaborate on cp
+- 📫 How to reach me **nahi kar payoge**
